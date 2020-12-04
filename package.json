@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "react-boilerplate-app",
   "version": "1.0.0",
   "description": "A TODOish listing app that allows for a random selection by clicking on a button",
   "main": "index.js",
